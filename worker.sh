@@ -1,10 +1,4 @@
-ewesum@DESKTOP-ALU3934:~/kubernetes-installation$
-ewesum@DESKTOP-ALU3934:~/kubernetes-installation$
-ewesum@DESKTOP-ALU3934:~/kubernetes-installation$ ls
-Minikube-Installation  README.md  master.sh  worker.sh
-ewesum@DESKTOP-ALU3934:~/kubernetes-installation$
-ewesum@DESKTOP-ALU3934:~/kubernetes-installation$
-ewesum@DESKTOP-ALU3934:~/kubernetes-installation$ cat worker.sh
+
 #!/bin/sh
 
 sudo apt update
