@@ -123,5 +123,5 @@ kubectl get po -n kube-system
 kubectl get nodes
 kubectl get cs
 -----------------------------------------------------------------------------------------------
-ewesum@DESKTOP-ALU3934:~/kubernetes-installation$
+
 
