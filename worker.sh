@@ -93,5 +93,5 @@ exit 1
 sudo nano /etc/containerd/config.toml
 #disabled_plugins = ["cri"]
 systemctl restart containerd.service
-ewesum@DESKTOP-ALU3934:~/kubernetes-installation$
+
 
