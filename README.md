@@ -13,5 +13,5 @@ You have manually install kubeadm init follow the script i mention it
 
 Worker.sh script can run only on worker nodes
 
-BLALALALALALALALA********
+
 
